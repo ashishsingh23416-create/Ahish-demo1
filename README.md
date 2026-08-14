@@ -1,3 +1,3 @@
-# Ahish-demo1
+# Ashish-demo1
 this is my first GitHub Repository 
 on GitHub 
